@@ -39,5 +39,4 @@
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=0xsersif&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
----
-![Profile Views](https://visitcount.itsvg.in/api?id=0xsersif&icon=0&color=0)
+
