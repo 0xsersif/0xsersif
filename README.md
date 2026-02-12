@@ -66,7 +66,5 @@ Query optimization • schema design • performance tuning
 - Database-driven services  
 - Infrastructure setups  
 
----
 
-## 📊 Builder Stats
 
