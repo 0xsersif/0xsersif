@@ -1,70 +1,113 @@
-# 0xsersif — Production-Focused Full-Stack Engineer
+# 0xsersif
 
-> I build systems people actually use. Not demos. Not tutorials. Real deployments.
+Production-focused full-stack engineer building systems used by real users.
 
----
+## About
 
-## 🚀 Proof I Ship
+I build software that runs in production, handles real traffic, and solves real operational problems.
 
-### 🏁 Run1Events Platform
-**Live:** https://run1events.com  
+My focus is on backend systems, infrastructure, databases, automation, and scalable web platforms.
 
-Built and deployed a real race registration system used in production.
+I care about:
+- Reliability
+- Performance
+- Clean architecture
+- Maintainable systems
+- Shipping working products
 
-**Results**
-- 800 real registrations processed
-- Live database + backend handling users
-- Production deployment + uptime monitoring
-- Full stack built and maintained solo
-
-This is not a sample project.  
-This is a live system handling real users.
+If it is not deployed and used, it is not finished.
 
 ---
 
-## 🧠 Engineering Philosophy
+## Production Work
 
-- Production > prototypes  
-- Metrics > claims  
-- Systems > scripts  
-- Shipping > perfection  
-- Real users > fake demos  
+### Run1Events
+Live platform: [run1events.com](https://run1events.com?utm_source=chatgpt.com)
 
-If it’s not deployed, tested, and used — it doesn’t count.
+Built and deployed a race registration platform handling real users and live event operations.
+
+#### Results
+- 800+ registrations processed
+- Full stack developed and maintained solo
+- Backend architecture and database systems designed from scratch
+- Responsive frontend interfaces
+- Authentication and registration workflows
+- Production deployment and maintenance
+
+This is a live system, not a tutorial project or mock application.
 
 ---
 
-## 🛠 Tech Stack
+## Technical Stack
 
 ### Languages
-`Python` `Go` `C` `JavaScript` `SQL`
+- Python
+- Go
+- C
+- JavaScript
+- SQL
 
 ### Backend
-`Flask` `FastAPI` `REST APIs` `Auth Systems` `Server Logic`
+- Flask
+- FastAPI
+- REST APIs
+- Authentication Systems
+- Server Architecture
 
 ### Frontend
-`HTML` `CSS` `Responsive Design` `Modern UI`
+- HTML
+- CSS
+- Responsive Design
+- Modern UI Development
 
 ### Databases
-`MySQL` `PostgreSQL`  
-Query optimization • schema design • performance tuning
+- MySQL
+- PostgreSQL
+- Query Optimization
+- Schema Design
+- Performance Tuning
 
 ### Infrastructure
-`Linux` `Docker` `cPanel` `Self-Hosting` `Server Deployment`
+- Linux
+- Docker
+- Self Hosting
+- cPanel
+- Server Deployment
 
 ### AI / ML
-`PyTorch` `Transformers` `RAG Systems` `LLM Deployment`
+- PyTorch
+- Transformers
+- RAG Systems
+- LLM Deployment
 
 ---
 
-## 🧱 What I Build
+## What I Build
 
-- Full production web platforms  
-- Scalable backend systems  
-- Real-world automation tools  
-- AI-powered applications  
-- Database-driven services  
-- Infrastructure setups  
+- Production web platforms
+- Backend systems
+- AI-powered applications
+- Automation tools
+- Database-driven services
+- Infrastructure setups
 
+---
 
+## Engineering Principles
 
+- Production over prototypes
+- Systems over scripts
+- Metrics over claims
+- Shipping over perfection
+- Real users over fake demos
+
+---
+
+## Contact
+
+Open to:
+- Backend engineering work
+- Full-stack development
+- Infrastructure projects
+- AI system integration
+- Production platform development
