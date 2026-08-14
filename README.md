@@ -1,440 +1,267 @@
-WebDev Logo
-Description
-A full-stack web developer should have skills in both front-end design/development and back-end/server coding. We can expect a full-stack developer to design, code, implement and maintain a fully functional modern interactive website on his/her own. Here i want to give you some information about the technologies, frameworks and some other useful stuff, one has to know for being a Full stack developer.
+<div align="center">
 
-Front End
-HTML - A markup language for describing web documents.
-CSS - A style sheet language used for describing the look and formatting of a document written in a markup language.
-Java Script - A programming language of the Web.
-CSS Frameworks
-Bootstrap - HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
-Semantic UI
-Foundation - The most advanced responsive front-end framework in the world.
-ElastiCSS - A simple css framework to layout web-based interfaces.
-Less - A CSS pre-processor, meaning that it extends the CSS language.
-Sass - Most mature, stable, and powerful professional grade CSS extension language in the world.
-Grid System - The grid system is an aid, not a guarantee.
-material-ui
-Angular Material Design - An implementation of Material Design in Angular.js.
-Materialize CSS - A modern responsive front-end framework based on Material Design.
-Polymer - Polymer brings an implementation of material design to the web.
-Quantum UI - The most powerful NATIVE AngularJS and Bootstrap CSS based UI components make developer life easy.
-Stylus - Expressive, dynamic, robust CSS
-Sizzle JS - A pure JS CSS selector engine designed to be easily dropped in to a host library.
-Gumby
-Kube - Kube is one of the world's most advanced and flexible frameworks.
-Skeleton - A dead simple, responsive boilerplate.
-tuktuk - A new smart kid on the Responsive block.
-lessframework - An adaptive CSS grid system.
-getuikit - A lightweight and modular front-end framework for developing fast and powerful web interfaces.
-yaml - A modular CSS framework for truly flexible, accessible and responsive websites
-responsivebp - A powerful, accessible, developer friendly framework for building responsive websites
-schema - A modular, front end framework to easily and quickly help you jumpstart your process in building complex interfaces for the web right out the box.
-tacit
-unsemantic
-basegui - A lightweight and robust CSS framework for prototyping and production code.
-groundworkcss
-weepower - Blueprint for modern web development
-fluidable - Fluidable is a mobile first, responsive grid system.
-ink - Create responsive web interfaces quick and efficiently.
-cascade - Putting back the C in CSS
-kickoff - A lightweight front-end framework for creating scalable, responsive sites.
-metroui - The front-end framework for developing projects on the web in Windows Metro Style.
-bulma - A modern CSS framework based on Flexbox
-leaf - A CSS framework based on Google's material design
-getessence - Build it on one, use it on all
-Baseguide - A lightweight and robust CSS framework for prototyping and production code.
-siimple - Minimal CSS framework for flat and clean designs.
-Responsive cat - CSS Micro framework
-topcoat - CSS for clean and fast web apps.
-inuitcss
-muellergridsystem
-golden-grid-system - A folding grid system for responsive design (2011).
-gridiculo
-toast - Insane, no-nonsense CSS grid
-getskeleton- A dead simple, responsive boilerplate.
-bootflat - BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework.
-jeet - A grid system for human
-Simple-Grid
-getleaf - A CSS framework based on Google's material design
-responsivecat - CSS Micro framework
-sculpt
-turretcss - A styles and browser behaviour normalisation framework for rapid development of responsive and accessible websites.
-concisecss - A framework written in SASS that’s lightweight and easy-to-use.
-modestgrid - An easy to customise grid framework that allows for the rapid development of responsive websites.
-responsivegridsystem - It's a quick, easy & flexible way to create a responsive web site.
-Clarity - Clarity Design System
-JavaScript Frameworks
-jQuery - jQuery is a fast, small, and feature-rich JavaScript library.
-jQuery UI
-jQuery Mobile - A Touch-Optimized Web Framework.
-AngularJS v1 - HTML enhanced for web apps.
-AngularJS v2 - One framework. Mobile & desktop.
-Ember JS - A framework for creating ambitious web applications.
-Ext JS - An immense step forward in the evolution of an amazing framework.
-Backbone JS - An open-source component of DocumentCloud.
-Knockout JS - Simplify dynamic JavaScript UIs with the Model-View-View Model (MVVM) pattern
-React JS - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-react-native - Learn once, write anywhere: build mobile apps with React.
-electrode - UNIVERSAL REACT/NODE APPLICATION PLATFORM
-coffeescript - CoffeeScript is a little language that compiles into JavaScript
-Prototype - It takes the complexity out of client-side web programming.
-GWT - GWT is used by many products at Google, including Google AdWords and Google Wallet.
-MooTools - A collection of JS utilities designed for the intermediate to advanced JS developer.
-Famo - The ultimate web platform for developers and designers.
-Ample SDK
-Dojo Toolkit - Dojo saves you time and scales with your development process, using web standards as its platform.
-Echo - An open-source framework for developing rich web applications.
-Vanilla JS - A fast, lightweight, cross-platform framework for building incredible, powerful JS applications.
-Cappuccino - A framework which makes it easy to create advanced web apps.
-sailsjs - The web framework of your dreams.
-cocoon JS
-vuejs - A library for building modern web interfaces.
-threejs - A JavaScript 3D Library which makes WebGL simpler.
-webrxjs
-mithril - A Javascript Framework for Building Brilliant Applications
-aurelia - A JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity.
-keystonejs - The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
-stapes - Meet the little Javascript framework that does just enough
-sanestack - A Javascript Fullstack and CLI that lets you rapidly create production-ready web apps using Sails and Ember. Get Docker support, generators and more.
-montagejs - A modern frontend HTML5 framework that supports creating single-page applications—fast.
-ractivejs - The diamond age of web development
-Omniscient - Do fast top-down rendering of views while thinking functional programming.
-Hybrid Mobile App Frameworks
-apache cordova - Apache Cordova is a platform for building native mobile applications using HTML, CSS and JavaScript
-Ionic Framework - Open source front-end SDK for developing hybrid mobile apps with HTML5.
-onsen ui - The Answer to Cordova UI Development.
-Mobile Angular UI - Build HTML5 Mobile Apps with Bootstrap and Angular JS.
-Meteor - A complete open source platform for building web and mobile apps in pure JavaScript.
-intel-xdk - Easy Path to HTML5 App Development, Fast Path to Multi-OS App Stores
-appcelerator - Native apps. Mobile APIs. Real-time analytics. One Platform.
-sencha touch - The leading cross-platform mobile web application framework based on HTML5 and JavaScript for creating universal mobile apps
-kendo-ui - Everything for building web and mobile apps with HTML5 and JavaScript.
-phonegap - Easily create apps using the web technologies you know and love: HTML, CSS, and JavaScript.
-xamarin
-Appgyver
-Supersonic - Build beautiful data-driven apps with real native performance.
-Steroids - The missing tooling for hybrid apps.
-Composer - The insanely fast way to bootstrap your HTML5 hybrid apps.
-framework7 - Full Featured HTML Framework For Building iOS & Android Apps
-monaca - Mobile App Development Fast, Easy and Flexible.
-Design Tools
-User Interface Design Tools
-Graphic Design Tools
-Back End
-Java
-Node JS - A platform built on Chrome's JS runtime for easily building fast, scalable network apps.
-php - A popular general-purpose scripting language that is especially suited to web development.
-python - Lets you work quickly and integrate systems more effectively.
-ruby - A dynamic, open source programming language with a focus on simplicity and productivity.
-Node.js Frameworks
-Express JS - Fast, unopinionated, minimalist web framework for Node.js
-hapijs - A rich framework for building applications and services
-Socket Stream - A framework for Real time Web Apps.
-Sails JS - It makes it easy to build custom, enterprise-grade Node.js apps.
-Total JS - Free web application framework for Node.js
-koa JS - Next generation web framework for node.js
-LoopBack - Powerful framework for creating APIs and easily connecting to backend data sources.
-Geddy JS - A simple, structured web framework for Node.
-Partial JS - Web application framework for node.js
-node-restify - A node.js module built specifically to enable you to build correct REST web services.
-getraddish - Raddish is a NodeJS Framework incorporating the power of MVC and DCI in a single framework.
-restberry - Framework for setting up RESTful APIs with NodeJS. Define your models then setup your CRUD API without needing to write any code.
-gugamarket - Gugamarket REST API framework
-facet - Extensible, framework agnostic JSON API platform for Node.js
-Locomotive JS - Powerful MVC web framework for Node.js.
-Flatiron JS - An adaptable framework for building modern web applications.
-trails - Modern Web Application Framework for Node.js
-dietjs - A tiny, fast and modular node.js web framework. Good for making fast & scalable apps and apis.
-compoundjs
-adonisjs - Practical. Reliable. Productive
-rhapsodyjs - A NodeJS HMVC framework for epic apps!
-strapi - Build powerful back-end with no effort.
-derbyjs - A full-stack framework for writing modern web applications.
-actionherojs - The Reusable, Scalable, and Quick node.js API Server!
-frisbyjs - A REST API testing framework built on node.js and Jasmine that makes testing API endpoints easy, fast, and fun. Read below for a quick overview, or check out the API documentation.
-senecajs - Design, develop and organize your code
-Data Base
-Mongo DB - The only database that harnesses the innovations of NoSQL.
-MySQL
-Oracle
-PostgreSQL
-IndexedDB
-webdatabase
-parse
-mlab
-couchbase
-aerospike - High performance NoSQL database delivering speed at scale
-flickerjs - Super fast and simple web framework for node.js
-IBM DB2 - No-boundaries database software for the digital, cloud and cognitive era
-sqlite - SQLite is a self-contained, high-reliability, embedded, full-featured, public-domain, SQL database engine.
-couchdb - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
-cassandra - Manage massive amounts of data, fast, without losing sleep
-orientdb - The World's First Distributed Multi-Model NoSQL Database with a Graph Database Engine
-Amazon SimpleDB
-Amazon DynamoDB
-CLOUD SQL - A fully-managed MySQL database service.
-sql database
-Database.com - Welcome to the world’s most trusted and secure cloud database.
-cleardb
-pouchdb - PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
-taffydb - The JavaScript Database
-Hosting
-amazon aws
-microsoft azure
-joyent
-rackspace
-softlayer
-heroku
-cloudways
-wiredtree
-Charts and Graphs
-highcharts - Make your data come alive
-d3js - A JavaScript library for manipulating documents based on data.
-nvd3 - A reusable charting library written in d3.js
-angular-nvd3 - An AngularJS directive for NVD3 re-usable charting library (based on D3).
-chartjs - Simple, clean and engaging charts for designers and developers
-angular-chart - Reactive, responsive, beautiful charts for AngularJS based on Chart.js
-angular-google-chart - Angular Google Chart
-google chart - Interactive charts for browsers and mobile devices.
-chartist-js - SIMPLE RESPONSIVE CHARTS
-n3-charts - Awesome charts for Angular
-Chartkick - Create beautiful Javascript charts with one line of Ruby
-zingchart - All your dataviz needs in one library
-fusioncharts - JavaScript charts for web & mobile
-flotcharts - Attractive JavaScript plotting for jQuery
-amcharts - JavaScript Charts & Maps
-ejschart - EJSCharts is the open source solution for home and business data representation and customization.
-uvCharts - Just one API function to learn and master, for all your charting needs.
-plotly - The open source JavaScript graphing library that powers plotly
-Useful Libraries / Plugins
-Moment JS - Parse, validate, manipulate, and display dates in JavaScript.
-Moment JS Timezone - Parse and display dates in any timezone.
-is.js - Check types, regexps, presence, time and more.
-underscorejs - JavaScript library that provides a whole mess of useful functional programming helpers without extending any built-in objects.
-lodash - A modern JavaScript utility library delivering modularity, performance, & extras.
-redux - Predictable state container for JavaScript apps
-vuex - Centralized State Management for Vue.js.
-riotjs
-wintersmith - Flexible, minimalistic, multi-platform static site generator built on top of node.js.
-feathersjs - A minimalist real-time framework for tomorrow's apps.
-seedsjs - Full-stack ember framework
-horizon - A realtime, open-source backend for JavaScript apps.
-krakenjs - Give your node.js express apps some extra arms
-tower - Small components for building apps, manipulating data, and automating a distributed infrastructure.
-Impress - Impress Application Server for node.js
-rendr - Render your Backbone.js apps on the client and the server, using Node.js.
-sequelizejs - Sequelize is a promise-based ORM for Node.js and io.js.
-virgilio - Bunyan is the logging framework we use.
-shps - SHPS is a homepage management system which assists you with making a homepage or web application in general! SHPS comes as a core system (no Admin GUI or additional features) which can be extended with many useful plugins.
-cylonjs - Next generation robotics framework with support for 43 different platforms Get Started
-falcor - A JavaScript library for efficient data fetching
-restful.js - A pure JS client for interacting with server-side RESTful resources. Think Restangular without Angular.
-fetch - A window.fetch JavaScript polyfill.
-postcss - A tool for transforming CSS with JavaScript
-API Docs
-api blueprint - API Documentation with powerful tooling.
-apidocjs - Inline Documentation for RESTful web APIs
-swagger - The World's Most Popular Framework for APIs.
-apiary - Collaborative design, instant API mock, generated documentation, integrated code samples, debugging and automated testing.
-django-rest-framework
-miredot - The most advanced REST API documentation generator for Java.
-Module bundlers
-webpack - MODULE BUNDLER
-lasso - Advanced JavaScript module bundler, asset pipeline and optimizer
-jspm - Frictionless browser package management
-browserify - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
-systemjs - SystemJS build tool
-rollupjs - the next-generation JavaScript module bundler
-Other Programming Languages
-golang - An open source programming language that makes it easy to build simple, reliable, and efficient software.
-Objective-C - Objective-C is the primary programming language you use when writing software for OS X and iOS
-swift - The powerful programming language that is also easy to learn.
-Icons
-fontawesome - The iconic font and CSS toolkit
-Material icons - Material icons
-material-design-iconic-font
-bootstrap icons
-glyphicons
-bootstrapicons
-flaticon
-iconfinder
-thenounproject
-freepik
-modernuiicons
-metrize-icons
-social-media-icons-pack
-Testing
-Karma - A test runner that fits all our needs.
-Jasmine - A behavior-driven development framework for testing JavaScript code.
-Protractor - An end-to-end test framework for AngularJS applications.
-Selenium - A portable software testing framework for web applications.
-QUnit JS - A JavaScript Unit Testing framework.
-No Backend Solutions
-Backendless
-Deployd
-Firebase
-Hood
-Kinvey
-Parse
-Remotestorage
-Sockethub
-Unhosted
-Staticapps
-backand
-JavaScript game engines
-cocos 3D - Create amazing 3D apps & games for mobile.
-impactjs - The awesomest way to create even more awesome html5 games!
-threejs
-createjs
-phaser
-craftyjs - A flexible framework for Javascript games
-pandajs - Free HTML5 game engine for mobile and desktop games.
-pixijs - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
-BabylonJS - A complete JavaScript framework for building 3D games with HTML 5 and WebGL
-melonJS - A fresh & lightweight javascript game engine
-turbulenz
-compilgames
-PhysicsJS
-stage.js
-goojs - MAKE GAMES AND VR FOR THE BROWSER
-whitestormjs - A framework for 3D web apps built with Three.js technology.
-qiciengine
-lychee
-Emulators
-Android
-Genymotion
-ios-sim
-Wireframing Tools
-mockflow
-moqups
-justinmind
-balsamiq
-wireframe
-gomockingbird
-cacoo
-axure - DESIGN THE RIGHT SOLUTION
-uxpin
-pidoco
-iplotz
-pidoco
-visio
-penultimate
-indesign
-pencil
-omnigroup
-framebox
-iphonemockup
-lumzy
-omnigroup
-gliffy - Make Diagramming a Team Sport
-protoshare
-OmniGraffle
-flairbuilder
-fluidui
-Adobe InDesign CC
-hotgloo - NEXT LEVEL WIREFRAMING & PROTOTYPING TOOL
-mockplus - PROTOTYPE FASTER. SMARTER. EASIER.
-lovelycharts
-simplediagrams
-flinto - App Prototyping Tools for Designers
-wireframesketcher
-talltree
-IDEs
-JetBrains webstorm
-Microsoft Visual Studio
-Microsoft Visual Studio Code
-NetBeans
-Sublime Text
-Brackets
-Eclips
-Xamarin
-Aptana
-Light Table
-Zend
-icecoder
-superpowers
-Online Code Editors
-JS Fiddle
-Plunker
-play.ionic.io
-Collabedit
-Codepen
-Dabblet
-Thimble
-js bin
-codeanywhere
-ionic-atom
-Plugins List
-AngularJS Modules - Find Modules for AngularJS
-ionic Market
-gulpjs
-jquery-plugins
-noodl.io - By Developers, For Developers.
-codecanyon
-Repository hosting service
-github
-bitbucket
-gitlab
-codebasehq
-beanstalk
-assembla
-fogcreek
-cloudforge
-fogcreek
-planio
-perforce
-rhodecode
-unfuddle
-Showcase & Inspiration
-Materialup - Daily showcase of the best Material Design concepts, apps and tools!
-Behance - A place to show and tell, promote, discover, and explore design.
-beta.pttrns - The finest collection of mobile design patterns, resources and inspiration.
-ui8 - Carefully crafted ui design assets.
-One Page Love - The ultimate showcase of beautiful One Page Websites, Templates and Resources.
-Awwwards - The awards for design, creativity and innovation on the Internet.
-Dribbble - What are you working on? Dribbble is show and tell for designers.
-abduzeedo - A collection of visual inspiration and useful tutorials.
-Appgyver - Built with Appgyver.
-siteinspire - A showcase of the finest web and interactive design.
-thedesigninspiration
-designspiration
-thebestdesigns - Featuring the best of web design.
-Market Places & Themes
-ionic market
-ionicthemes
-bootswatch
-themeforest
-templatemonster
-nimbusthemes
-themetrust
-themeshift
-thethemefoundry
-organicthemes
-elegantthemes
-graphpaperpress
-prothemedesign
-obox-design
-woothemes
-Other Stuff
-nvm - Node Version Manager
-Web RTC - A free, open project that provides browsers and mobile applications with Real-Time Communications (RTC) capabilities via simple APIs
-Grunt JS - The JavaScript Task Runner.
-Bower - A package manager for the web.
-Yeoman - The web's scaffolding tool for modern web apps.
-Gulp JS - Automate and enhance your workflow.
-Slush JS - The streaming scaffolding system.
-Nuget - NuGet is the package manager for the Microsoft development platform including .NET.
-Web APIs
-Testling - Run your browser tests on every push.
-Ionicons
-Font Awesome
-babeljs - Babel is a JavaScript compiler.
-leafletjs - An open-source JavaScript library for mobile-friendly interactive maps.
-License
-MIT
-Contribute
-I understand, there are so many other technologies and frameworks other than what i mentioned here. Please suggest any other, you feel missing and useful. Please make a pull request or raise an issue regarding the modifications or suggestions.
+# ⚡ Software Engineering Master Compendium & Systems Directory
 
-Contact Me
-Gmail : othmane.firs@gmail.com
+<p align="center">
+  <strong>A Curated Engineering Atlas for Modern Software Architecture, Distributed Systems, Full-Stack Engineering, DevOps & System Design</strong>
+</p>
+
+[![Role](https://img.shields.io/badge/Engineer-Software%20Engineer-0b3866.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-059669.svg?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-10b981.svg?style=for-the-badge)](https://github.com/)
+[![Contact](https://img.shields.io/badge/Contact-Othmane-ea7a24.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:othmane.firs@gmail.com)
+
+---
+
+</div>
+
+## 📌 Software Engineer's Manifesto
+
+As **Software Engineers**, our craft extends far beyond writing syntax: we design resilient architectures, solve complex computational problems, optimize system throughput, and build scalable distributed systems that power global infrastructure.
+
+This repository is an engineered directory covering the full lifecycle of software development: from computational foundations and data structures to distributed microservices, cloud-native deployments, and modern human-computer interfaces.
+
+---
+
+## 🏛️ System Design & Distributed Architecture Blueprint
+
+```
+                              ┌───────────────────────────────────┐
+                              │     GLOBAL CLIENTS & DEVICES      │
+                              │   Web • Mobile (iOS/Android) • IoT│
+                              └─────────────────┬─────────────────┘
+                                                │ (HTTPS / TLS 1.3 / WSS)
+                                                ▼
+                              ┌───────────────────────────────────┐
+                              │  EDGE NETWORK & API GATEWAY       │
+                              │  • Cloudflare / CloudFront CDN    │
+                              │  • Rate Limiting & Auth (OAuth2)  │
+                              │  • Reverse Proxy & Load Balancer  │
+                              └─────────────────┬─────────────────┘
+                                                │
+                 ┌──────────────────────────────┼──────────────────────────────┐
+                 │ (gRPC / REST / GraphQL)      │ (High-Throughput RPC)        │ (Async Pub/Sub)
+                 ▼                              ▼                              ▼
+  ┌─────────────────────────────┐┌─────────────────────────────┐┌─────────────────────────────┐
+  │   CORE APPLICATION LAYER    ││   REAL-TIME & STREAMING     ││   ASYNC WORKER SERVICES     │
+  │ • Node.js / TypeScript      ││ • WebSockets (Socket.io)    ││ • Apache Kafka / RabbitMQ   │
+  │ • Go (Golang) Microservices ││ • WebRTC Peer Connections   ││ • Celery / BullMQ Workers   │
+  │ • Python / Java Services    ││ • Redis Pub/Sub             ││ • Cron & Scheduled Tasks    │
+  └──────────────┬──────────────┘└──────────────┬──────────────┘└──────────────┬──────────────┘
+                 │                              │                              │
+                 └──────────────────────────────┼──────────────────────────────┘
+                                                │
+                                                ▼
+┌─────────────────────────────────────────────────────────────────────────────────────────────┐
+│                              PERSISTENCE & DATA STORAGE LAYER                               │
+├──────────────────────────────┬──────────────────────────────┬───────────────────────────────┤
+│  RELATIONAL (ACID / OLTP)    │  DOCUMENT & NOSQL (BASE)     │  IN-MEMORY CACHE & SEARCH     │
+│  • PostgreSQL                │  • MongoDB                   │  • Redis (Sub-millisecond)    │
+│  • MySQL / MariaDB           │  • Apache Cassandra          │  • Elasticsearch / Meilisearch│
+│  • SQLite (Embedded Edge)    │  • Amazon DynamoDB           │  • Memcached                  │
+└──────────────────────────────┴──────────────────────────────┴───────────────────────────────┘
+                                                │
+                                                ▼
+┌─────────────────────────────────────────────────────────────────────────────────────────────┐
+│                          DEVOPS, CLOUD INFRASTRUCTURE & OBSERVABILITY                       │
+│  • Containers & Orchestration: Docker • Kubernetes • Helm • Nomad                           │
+│  • Infrastructure as Code (IaC): Terraform • Ansible • AWS CDK                              │
+│  • Telemetry & Monitoring: Prometheus • Grafana • OpenTelemetry • Datadog                   │
+│  • Continuous Delivery (CI/CD): GitHub Actions • GitLab CI • ArgoCD                         │
+└─────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📑 Engineered Table of Contents
+
+1. [Software Engineering Fundamentals & Principles](#1-software-engineering-fundamentals--principles)
+2. [Front-End Engineering & Web Interfaces](#2-front-end-engineering--web-interfaces)
+3. [Back-End Services & Concurrent Systems](#3-back-end-services--concurrent-systems)
+4. [Distributed Node.js & Server Frameworks](#4-distributed-nodejs--server-frameworks)
+5. [Database Engineering & Storage Paradigms](#5-database-engineering--storage-paradigms)
+6. [Cross-Platform & Mobile Systems](#6-cross-platform--mobile-systems)
+7. [Data Visualization, Metrics & Analytics](#7-data-visualization-metrics--analytics)
+8. [API Engineering, Contracts & Protocols](#8-api-engineering-contracts--protocols)
+9. [Build Systems, Compilers & Bundlers](#9-build-systems-compilers--bundlers)
+10. [Automated Testing, QA & Reliability](#10-automated-testing-qa--reliability)
+11. [DevOps, Cloud Platforms & Security](#11-devops-cloud-platforms--security)
+12. [System Architecture & Wireframing Tools](#12-system-architecture--wireframing-tools)
+13. [Author, Contributing & License](#-author-contributing--license)
+
+---
+
+## 1. Software Engineering Fundamentals & Principles
+
+| Core Paradigm | Key Concepts & Patterns | Engineering Value |
+| :--- | :--- | :--- |
+| **SOLID Principles** | Single Responsibility, Open/Closed, Liskov Substitution, Interface Segregation, Dependency Inversion | High maintainability, decoupled modular codebases |
+| **Clean Architecture** | Hexagonal / Ports & Adapters, Domain-Driven Design (DDD), CQRS | Business logic isolation from frameworks and databases |
+| **Data Structures & Algorithms** | Big-O Complexity, Trees, Graphs, Hash Tables, Dynamic Programming | Optimal algorithmic throughput, memory efficiency |
+| **Concurrency & Async** | Event Loops, Goroutines, Thread Pools, Mutexes, Locks, Async/Await | Non-blocking execution under extreme concurrency loads |
+
+---
+
+## 2. Front-End Engineering & Web Interfaces
+
+<details open>
+<summary><strong>Explore UI Systems, Frameworks & Compilers</strong></summary>
+
+### Core Technologies
+* [HTML5](http://www.w3schools.com/html/default.asp) — Semantic document structure and accessible DOM standards.
+* [CSS3](http://www.w3schools.com/css/default.asp) — Cascading stylesheets, CSS Grid, Flexbox, and hardware-accelerated animations.
+* [JavaScript (ESNext)](http://www.w3schools.com/js/default.asp) — ECMAScript language standard, closures, prototype chain, and event loop.
+* [TypeScript](https://www.typescriptlang.org/) — Strongly typed JavaScript empowering large-scale code maintainability.
+
+### UI Frameworks & Component Architecture
+* [React JS](https://facebook.github.io/react/) — Declarative, component-driven UI library powered by Virtual DOM reconciliation.
+* [Vue.js](http://vuejs.org/) — Progressive reactive framework with intuitive single-file components (SFCs).
+* [Angular](https://angular.io/) — Enterprise-scale TypeScript framework featuring dependency injection and modularity.
+* [Svelte](https://svelte.dev/) — Zero-runtime compiler shifting reactivity work to compile time.
+* [Three.js](http://threejs.org/) — High-performance 3D WebGL rendering engine.
+
+### CSS Engines, Pre-processors & Design Systems
+* [Sass / SCSS](http://sass-lang.com/) • [Less](http://lesscss.org/) • [Stylus](http://learnboost.github.io/stylus/) — CSS extensions with mixins, inheritance, and math.
+* [PostCSS](http://postcss.org/) — JavaScript-based CSS transformer and AST parser.
+* [Bootstrap](http://getbootstrap.com/) • [Bulma](http://bulma.io/) • [Material-UI](http://www.material-ui.com/) • [Tailwind CSS](https://tailwindcss.com/) • [Foundation](http://foundation.zurb.com/)
+
+</details>
+
+---
+
+## 3. Back-End Services & Concurrent Systems
+
+| Language / Runtime | Execution Model | Ideal Production Use Cases |
+| :--- | :--- | :--- |
+| **Go (Golang)** | Compiled native code, Goroutines concurrency, channel synchronization | High-throughput microservices, network proxies, distributed systems |
+| **Node.js** | Single-threaded event loop powered by Google V8 & libuv | Real-time I/O APIs, streaming services, WebSocket servers |
+| **Python** | Interpreted, dynamic, rich scientific and data ecosystem | AI/ML pipelines, computational analytics, rapid REST APIs |
+| **Java** | JVM bytecode, multithreaded enterprise concurrency, JIT optimization | Mission-critical financial systems, enterprise middleware |
+| **Rust** | Zero-cost abstractions, memory safety without garbage collector | Systems programming, low-latency microservices, WebAssembly |
+
+---
+
+## 4. Distributed Node.js & Server Frameworks
+
+* [Express.js](http://expressjs.com/) — Fast, unopinionated, minimalist web routing layer.
+* [NestJS](https://nestjs.com/) — Enterprise TypeScript framework inspired by Angular architecture.
+* [Fastify](https://www.fastify.io/) — High-throughput web framework with negligible overhead.
+* [Koa.js](http://koajs.com/) — Modern async-first middleware framework by Express creators.
+* [Sails.js](http://sailsjs.org/) — Full-featured MVC framework with automated REST & WebSocket bindings.
+* [Socket.io](https://socket.io/) — Low-latency event-based communication engine.
+
+---
+
+## 5. Database Engineering & Storage Paradigms
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                        DATA PERSISTENCE SCHEMES                        │
+├───────────────────────────────────┬────────────────────────────────────┤
+│  RELATIONAL (SQL / ACID)          │  DOCUMENT & NOSQL (BASE)           │
+│  • PostgreSQL (Advanced Features) │  • MongoDB (JSON/BSON Document)    │
+│  • MySQL / MariaDB (Clustered)    │  • Apache CouchDB (Sync Engine)    │
+│  • SQLite (Local Edge Engine)     │  • Amazon DynamoDB (Serverless)    │
+├───────────────────────────────────┼────────────────────────────────────┤
+│  DISTRIBUTED WIDE-COLUMN          │  IN-MEMORY & KEY-VALUE CACHE       │
+│  • Apache Cassandra (Big Data)    │  • Redis (Sub-millisecond latency) │
+│  • ScyllaDB (C++ Re-write)        │  • Memcached (Simple Key-Value)    │
+└───────────────────────────────────┴────────────────────────────────────┘
+```
+
+* **Relational Engines:** [PostgreSQL](http://www.postgresql.org/) • [MySQL](http://www.mysql.com/) • [SQLite](https://sqlite.org/)
+* **NoSQL Engines:** [MongoDB](http://www.mongodb.org/) • [Cassandra](http://cassandra.apache.org/) • [Couchbase](http://www.couchbase.com/)
+* **ORMs & Drivers:** [Prisma](https://www.prisma.io/) • [Sequelize](http://docs.sequelizejs.com/) • [TypeORM](https://typeorm.io/) • [Mongoose](https://mongoosejs.com/)
+
+---
+
+## 6. Cross-Platform & Mobile Systems
+
+* [React Native](https://facebook.github.io/react-native/) — Native mobile rendering backed by React logic.
+* [Flutter](https://flutter.dev/) — Google's Dart-based rendering engine targeting iOS, Android, and Desktop.
+* [Ionic Framework](http://ionicframework.com/) — Web-component SDK for hybrid mobile applications.
+* [Apache Cordova](https://cordova.apache.org/) — Hardware bridging container for HTML5 mobile applications.
+
+---
+
+## 7. Data Visualization, Metrics & Analytics
+
+* [D3.js](https://d3js.org/) — Data-driven document manipulation and custom SVG/Canvas rendering.
+* [Chart.js](http://www.chartjs.org/) — Clean HTML5 canvas charting.
+* [Highcharts](http://www.highcharts.com/) — Industrial-grade interactive visual data suite.
+* [Plotly](https://plot.ly/javascript/) — Declarative scientific and financial visualization library.
+
+---
+
+## 8. API Engineering, Contracts & Protocols
+
+* **Protocols:** REST • GraphQL • gRPC (Protocol Buffers) • WebSockets • Server-Sent Events (SSE)
+* **Contract Specification:** [OpenAPI / Swagger](http://swagger.io/) • [API Blueprint](https://apiblueprint.org/)
+* **Testing & Mocks:** [Postman](https://www.postman.com/) • [Insomnia](https://insomnia.rest/) • [Apiary](https://apiary.io/)
+
+---
+
+## 9. Build Systems, Compilers & Bundlers
+
+* [Vite](https://vitejs.dev/) — Native ESM development server with Rollup production builds.
+* [Webpack](https://webpack.github.io/) — Highly extensible asset compiler and module bundler.
+* [Rollup.js](http://rollupjs.org/) — Optimized tree-shaking bundler for JavaScript libraries.
+* [Babel](https://babeljs.io/) — Next-generation JavaScript-to-JavaScript compiler.
+
+---
+
+## 10. Automated Testing, QA & Reliability
+
+* **Unit & Integration:** [Jest](https://jestjs.io/) • [Vitest](https://vitest.dev/) • [Mocha](http://mochajs.org/) + [Chai](https://www.chaijs.com/)
+* **End-to-End (E2E):** [Playwright](https://playwright.dev/) • [Cypress](https://www.cypress.io/) • [Selenium](http://www.seleniumhq.org/)
+* **Performance & Load Testing:** [k6](https://k6.io/) • [Apache JMeter](https://jmeter.apache.org/)
+
+---
+
+## 11. DevOps, Cloud Platforms & Security
+
+* **Cloud Providers:** [Amazon Web Services (AWS)](https://aws.amazon.com/) • [Microsoft Azure](https://azure.microsoft.com/) • [Google Cloud Platform (GCP)](https://cloud.google.com/)
+* **Containerization:** [Docker](https://www.docker.com/) • [Kubernetes (K8s)](https://kubernetes.io/)
+* **CI/CD Automation:** GitHub Actions • GitLab CI • Jenkins
+* **Infrastructure as Code:** Terraform • AWS CloudFormation
+
+---
+
+## 12. System Architecture & Wireframing Tools
+
+* **Architecture Diagrams:** [Draw.io / Diagrams.net](https://app.diagrams.net/) • [PlantUML](https://plantuml.com/) • [Mermaid.js](https://mermaid.js.org/)
+* **UI/UX Prototyping:** [Figma](https://www.figma.com/) • [Axure RP](http://www.axure.com/) • [Balsamiq](https://balsamiq.com/)
+
+---
+
+## 🤝 Contributing & License
+
+Constructive contributions, architectural suggestions, and additions from fellow engineers are always welcome.
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/software-engineering-compendium.git
+
+# Create your feature branch
+git checkout -b feature/NewSystemPattern
+
+# Commit your changes
+git commit -m 'feat: add distributed messaging pattern'
+
+# Push to origin & open a Pull Request
+git push origin feature/NewSystemPattern
+```
+
+### 📜 License
+Distributed under the **MIT License**. See `LICENSE` for complete details.
+
+---
+
+## 📬 Engineer Contact
+
+<div align="center">
+
+**Othmane — Software Engineer**  
+📧 **Email:** [othmane.firs@gmail.com](mailto:othmane.firs@gmail.com)  
+
+</div>
