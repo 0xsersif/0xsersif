@@ -234,34 +234,9 @@ This repository is an engineered directory covering the full lifecycle of softwa
 
 ---
 
-## 🤝 Contributing & License
-
-Constructive contributions, architectural suggestions, and additions from fellow engineers are always welcome.
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/software-engineering-compendium.git
-
-# Create your feature branch
-git checkout -b feature/NewSystemPattern
-
-# Commit your changes
-git commit -m 'feat: add distributed messaging pattern'
-
-# Push to origin & open a Pull Request
-git push origin feature/NewSystemPattern
-```
-
-### 📜 License
-Distributed under the **MIT License**. See `LICENSE` for complete details.
-
----
 
 ## 📬 Engineer Contact
-
-<div align="center">
-
-**Othmane — Software Engineer**  
-📧 **Email:** [othmane.firs@gmail.com](mailto:othmane.firs@gmail.com)  
+ 
+ 📧 **Email:** [othmane.firs@gmail.com](mailto:othmane.firs@gmail.com)  
 
 </div>
